@@ -1,3 +1,4 @@
+(https://www.loom.com/share/bf64f334aea44e85b8d844e5deb5c497?sid=0f6f1161-cf6b-4435-9ca0-1f2d1310d093)
 # Reset Passwords in Active Directory (AD)
 
 This guide explains how to reset user passwords in **Active Directory Users and Computers (ADUC)**.
